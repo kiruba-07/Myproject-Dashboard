@@ -1,4 +1,4 @@
-#  Telecom Customer churn prediction-Data analysis project(Interactive Dashboard creation using Microsoft PowerBI)
+#  Telecom Customer churn prediction project(Interactive Dashboard creation using Microsoft PowerBI)
 ## Objective:
 To analyze and visualize customer behavior and churn patterns using Power BI, enabling stakeholders to identify key factors influencing churn and make data-driven decisions to improve customer retention.
 ## Myproject-Dashboard
