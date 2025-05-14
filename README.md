@@ -19,11 +19,15 @@ Identified that customers with shorter tenure and month-to-month contracts are m
 ## Dashboard
 ![Screenshot (171)](https://github.com/user-attachments/assets/b3fb4e48-80dc-476a-8d08-0b7f7587bd94)
 ## Project Insights
-- Churn Rate is around 27%, indicating a significant portion of customers are leaving the service.
-- Customers with month-to-month contracts show a much higher churn rate than those with long-term contracts.
-- Shorter tenure customers are more likely to churn, showing lower brand loyalty in the early months.
-- Average monthly charges are higher among churned customers, suggesting pricing may influence churn.
-- Female and male customers churn at similar rates, meaning gender does not heavily impact churn.
+- **Churn Rate:** Around **27%** of customers have churned, showing a high customer loss.
+- **Contract Type:** Customers with **month-to-month contracts** are more likely to churn compared to those with yearly contracts.
+- **Tenure:** Customers with **shorter tenure** are more prone to churn, indicating low initial loyalty.
+- **Monthly Charges:** **Churned customers** tend to have **higher monthly charges**, suggesting pricing may be a factor.
+- **Gender Impact:** **Both male and female** customers churn at nearly the same rate, showing no strong gender-based trend.
+## Conclusion
+This project successfully identified key factors influencing customer churn using data analysis and machine learning. Insights such as high churn among month-to-month contract users and those with higher monthly charges can help businesses improve customer retention strategies. The dashboard built with Power BI provides an interactive view of churn metrics, enabling data-driven decision-making for reducing customer loss.
+
+
 
 
  
