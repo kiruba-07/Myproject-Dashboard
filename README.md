@@ -18,5 +18,13 @@ Built an interactive dashboard with KPIs, bar charts, pie charts, scatter plots,
 Identified that customers with shorter tenure and month-to-month contracts are more likely to churn.
 ## Dashboard
 ![Screenshot (171)](https://github.com/user-attachments/assets/b3fb4e48-80dc-476a-8d08-0b7f7587bd94)
+## Project Insights
+- Churn Rate is around 27%, indicating a significant portion of customers are leaving the service.
+- Customers with month-to-month contracts show a much higher churn rate than those with long-term contracts.
+- Shorter tenure customers are more likely to churn, showing lower brand loyalty in the early months.
+- Average monthly charges are higher among churned customers, suggesting pricing may influence churn.
+- Female and male customers churn at similar rates, meaning gender does not heavily impact churn.
+
+
  
 
